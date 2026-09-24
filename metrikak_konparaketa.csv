@@ -1,0 +1,4 @@
+Eredua,BLEU-4,METEOR,CLIPScore
+Show and Tell,0.0717,0.2834,20.22
+CLIP + GPT-2,0.0514,0.2195,17.58
+ConvNeXt + Mamba,0.0012,0.0043,18.98
